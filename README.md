@@ -1,21 +1,36 @@
-Complete Recent Discord Quest
+🎯 Complete Recent Discord Quest
 
-**Note**
+«⚠️ Note:
+Quests that require you to play a game do not work in the browser. Please use the Discord Desktop App to complete those quests.»
 
-This does not works in browser for quests which require you to play a game! Use the desktop app to complete those.
+🛠️ How to Use This Script
 
-How to use this script:
+1. ✅ Accept a Quest from the Quests tab.
+2. 🖥️ Press "Ctrl + Shift + I" to open DevTools.
+3. 📜 Go to the Console tab.
+4. 📋 Paste the script into the console.
+   - 🔐 If you're unable to paste, type "allow pasting" and press Enter, then try again.
+5. 📌 Follow the instructions printed in the Console based on your quest type.
 
-Accept a quest under the Quests tab
-Press Ctrl+Shift+I to open DevTools
-Go to the Console tab
-Paste the script in the script file
+🎮 Depending on Your Quest
 
-(If you're unable to paste into the console, you might have to type allow pasting and hit enter)
+- ▶️ Play a Game / Watch a Video:
+  Simply wait — you don't need to do anything.
 
-Follow the printed instructions depending on what type of quest you have
-If your quest says to "play" the game or watch a video, you can just wait and do nothing
-If your quest says to "stream" the game, join a vc with a friend or alt and stream any window
-Wait a bit for it to complete the quest
-You can now claim the reward!
-You can track the progress by looking at the Quest progress: prints in the Console tab, or by looking at the progress bar in the quests tab.
+- 📡 Stream a Game:
+  Join a voice channel with a friend or an alt account and stream any window.
+
+- ⏳ Wait for Completion:
+  Give it some time until the quest is completed.
+
+- 🎁 Claim Your Reward:
+  Once completed, you can claim your reward!
+
+📊 Track Your Progress
+
+You can check your progress in either:
+
+- 🖥️ Console: Look for the "Quest progress:" messages.
+- 🎯 Quests Tab: Check the progress bar directly.
+
+✨ That's it! Complete the quest and claim your reward.
